@@ -8,4 +8,6 @@ Blog será atualizado mensalmente com fotos que irão representar nós dois a ca
 
 Que esse blog sirva de lembrança pra nós e pras pessoas que amamos.
 
+Teste deploy blog.
+
 <i>Criado por Felipe Bertho, com todo amor para Thais Khater.</i>
